@@ -1,5 +1,7 @@
 # conqueror
 
+[![CodSpeed](https://img.shields.io/badge/CodSpeed-Performance%20Tracked-blue?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMEwxNiA4TDggMTZMMCA4TDggMFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==&style=flat-square)](https://codspeed.io/AvalancheHQ/ermianr-conqueror?utm_source=badge)
+
 This project was created with [Better-T-Stack](https://github.com/AmanVarshney01/create-better-t-stack), a modern TypeScript stack that combines React, TanStack Start, Self, and more.
 
 ## Features
@@ -69,6 +71,7 @@ conqueror/
 - `bun run db:generate`: Generate database migrations
 - `bun run db:migrate`: Run database migrations
 - `bun run check`: Run Biome formatting and linting
+- `bun run bench`: Run performance benchmarks
 - `cd apps/docs && bun run dev`: Start documentation site
 - `cd apps/docs && bun run build`: Build documentation site
 - `docker-compose up -d`: Start PostgreSQL database
